@@ -1,0 +1,19 @@
+{
+  "name": "e-market2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Titech0/e-market2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Titech0/e-market2/issues"
+  },
+  "homepage": "https://github.com/Titech0/e-market2#readme",
+  "dependencies": {
+    "node-sass": "^7.0.1"
+  }
+}
